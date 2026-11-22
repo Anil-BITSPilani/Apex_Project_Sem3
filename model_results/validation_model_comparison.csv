@@ -1,0 +1,6 @@
+Model,PR-AUC (average precision),ROC-AUC,Accuracy @ 0.5,Precision @ 0.5,Recall @ 0.5,F1 @ 0.5
+Dummy (most frequent),0.2091,0.5,0.7909,0.0,0.0,0.0
+Logistic Regression (balanced),0.3463,0.6747,0.6211,0.3068,0.6445,0.4157
+Decision Tree (balanced),0.3107,0.634,0.5832,0.277,0.6165,0.3822
+Random Forest (balanced subsample),0.3471,0.6772,0.6404,0.3157,0.6162,0.4175
+Gradient Boosting (balanced sample weights),0.3421,0.6703,0.6271,0.3071,0.6233,0.4115
